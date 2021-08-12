@@ -1,5 +1,8 @@
 # README
 
+https://github.com/honeybadger-io/examples-react-on-rails
+https://www.honeybadger.io/blog/react-rails/
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
